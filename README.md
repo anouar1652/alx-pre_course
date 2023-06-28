@@ -1,2 +1,2 @@
 My first readme
-this is my addet in github
+this is my addet in git
